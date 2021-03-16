@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602017805 source:c:\users\alist\documents\code blocks\conversion\main.cpp
+	<iostream>
+	<math.h>
+
